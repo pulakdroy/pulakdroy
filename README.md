@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pulakdroy
 - 👀 I’m interested in "AI"
-- 🌱 I’m currently learning HTML5
+- 🌱 I’m currently learning Python 
 
 
 
