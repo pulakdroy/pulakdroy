@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pulakdroy
-- 👀 I’m interested in "AI"
+- 👀 I’m interested in "AI" and "ML"
 - 🌱 I’m currently learning Python 
 
 
