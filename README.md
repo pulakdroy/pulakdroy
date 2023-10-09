@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pulakdroy
 - 👀 I’m interested in "AI" and "ML"
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python & Java
 
 
 
