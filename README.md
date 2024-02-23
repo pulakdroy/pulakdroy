@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pulakdroy
 - 👀 I’m interested in "AI" and "ML"
 - 🌱 I work with Python, PHP, MySQL, HTML, and CSS.
-- 👾 Learning Java and JavaScript.
+- 👾 Learning Java and Django.
 
 
 ![916e8906bbfda5691b0ea68fd42bee42](https://github.com/pulakdroy/pulakdroy/assets/44415343/9c3f2968-f9de-4a60-80f7-59e02e1d32f1)
