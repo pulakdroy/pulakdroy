@@ -25,6 +25,8 @@ I am a passionate Bsc CS student at BRACU, driven by a curiosity for technology 
 ## 📬 Get in Touch
 
 - 📩 pulakdr@gmail.com
+- [![Buy me a coffee](![image](https://github.com/user-attachments/assets/7ea54168-1a37-4794-864d-56236c061df9)
+)](https://buymeacoffee.com/pulakdroy)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
