@@ -6,12 +6,16 @@ I am a passionate Bsc CS student at BRACU, driven by a curiosity for technology 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Computer Science at BRAC University.
+- 🔭 I'm currently pursuing my Bachelor's in Computer Science at BRAC University
+- 💼 Former Junior Executice at ROBU 
+-  🕹 Working with Python, PHP, MySQL
 
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
+- 🚀 Learning JavaScript, Computer Architechture and Software Engineering
+- 🧿 Interested in ML and AI
+- 
 
 
  ## 🏆 Achievements
@@ -20,11 +24,11 @@ I am a passionate Bsc CS student at BRACU, driven by a curiosity for technology 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- 📩 pulakdr@gmail.com
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
+![image](https://github.com/user-attachments/assets/b5380f43-89c8-488d-9146-eac83fd32008)
 
 
 <!--
