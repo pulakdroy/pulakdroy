@@ -10,6 +10,7 @@ I am a passionate Bsc CS student at BRACU, driven by a curiosity for technology 
 - 💼 Former Junior Executice at ROBU 
 -  🕹 Working with Python, PHP, MySQL
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pulakdroy)](https://github.com/pulakdroy/github-readme-stats)
 
 ## 🌱 Currently Exploring
 
