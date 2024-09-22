@@ -34,12 +34,10 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 
 
 
-![GitHub Snake Animation](https://github.com/pulakdroy/pulakdroy/blob/output/github-contribution-grid-snake.svg)
 
 
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-![GitHub Skyline](https://your-url-to-skyline.gif)
-![Isometric Contribution Calendar](https://github.com/pulakdroy/your-isometric-calendar.png)
+
+
 
 
 
