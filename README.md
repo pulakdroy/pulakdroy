@@ -34,6 +34,13 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 
 
 
+<img src="https://raw.githubusercontent.com/pulakdroy/snake.svg" alt="Snake animation" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pulakdroy&theme=juicyfresh)
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![GitHub Skyline](https://your-url-to-skyline.gif)
+![Isometric Contribution Calendar](https://github.com/pulakdroy/your-isometric-calendar.png)
+![Commit Badge](https://img.shields.io/badge/commits-100%2B-brightgreen)
+
 
 
 
