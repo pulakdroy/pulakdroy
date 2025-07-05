@@ -41,7 +41,11 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pulakdroy/pulakdroy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pulakdroy/pulakdroy/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pulakdroy/pulakdroy/output/github-snake.svg" />
+</picture>
 
 
 <!--
